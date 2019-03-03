@@ -1,12 +1,17 @@
 LAST GUARDIAN
 
+
 Plateforme utilisé :
 Windows 7
 
 Logiciel de programmation :
 Qtcrearor
 
+Langage de programmation :
+C++
+
 Ce projet a été réalisé lors de ma seconde année spécialité informatique de confiance : cyber sécurité du logiciel à l'ENSIBS.
+Ce projet a été fait par LUCK Bastien.
 
 Le jeu est plus ou moins expliqué dans le rapport.
 Le jeu se joue avec la souris pour tous ce qui est de type bouton et avec le clavier pour le déplacement (flèche haut/bas), tir (espace), choix d'arme ( & é " ' ( ).
